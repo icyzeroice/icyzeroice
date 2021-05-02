@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 
 -->
 
+
+### ✨ This is me
+
 ![](https://github-readme-stats.vercel.app/api?username=icyzeroice)
+
+
+### ❓ How was the week
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 
