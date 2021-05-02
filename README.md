@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 
 -->
 
-
 ### ✨ This is me
 
 ![](https://github-readme-stats.vercel.app/api?username=icyzeroice)
-
-
-### ❓ How was the week
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
@@ -75,10 +71,7 @@ Mac                      1 hr 14 mins        ███████████�
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/icyzeroice/icyzeroice/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
-
 
 <!--
 
