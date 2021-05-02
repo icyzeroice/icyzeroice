@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 - https://github.com/coderjojo/creative-profile-readme
 - https://github.com/elangosundar/awesome-README-templates
 - https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+- https://github.com/anmol098/waka-readme-stats
 
 -->
