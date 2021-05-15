@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=icyzeroice)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-163-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429443%20lines%20of%20code-blue)
 
