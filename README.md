@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=icyzeroice)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icyzeroice&exclude_repo=scutie2015-digimon&layout=compact&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icyzeroice&exclude_repo=scutie2015-digimon&layout=compact&langs_count=5)
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=icyzeroice)
 
