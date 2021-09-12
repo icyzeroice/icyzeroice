@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ### ✨ This is me
 
-![](https://github-readme-stats.vercel.app/api?username=icyzeroice)
+![Readme Stats](https://github-readme-stats.vercel.app/api?username=icyzeroice)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icyzeroice&exclude_repo=scutie2015-digimon&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
