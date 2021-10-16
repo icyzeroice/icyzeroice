@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-565851%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-565847%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 ```text
 Monday       83 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Tuesday      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Tuesday      71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
 Wednesday    59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
 Thursday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
 Friday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
-Saturday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
+Saturday     77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
 Sunday       130 commits    ██████░░░░░░░░░░░░░░░░░░░   24.62%
 
 ```
@@ -74,7 +74,7 @@ Linux                    50 mins             █████████░░�
 ![Chart not found](https://raw.githubusercontent.com/icyzeroice/icyzeroice/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/10/2021
+ Last Updated on 16/10/2021
 <!--END_SECTION:waka-->
 
 <!--
