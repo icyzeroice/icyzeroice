@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 
-### ✨ This is me
+### ✨ [This is me](https://shakugan.fandom.com/wiki/Serment)
 
 ![Readme Stats](https://github-readme-stats.vercel.app/api?username=icyzeroice)
 
