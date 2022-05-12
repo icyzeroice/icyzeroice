@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=icyzeroice)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--293%20Thousand%20lines%20of%20code-blue)
 
@@ -59,17 +59,17 @@ Sunday       147 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               16 hrs 57 mins      ████████████████████████░   97.38% 
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
-Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+TypeScript               22 hrs 33 mins      ████████████████████████░   97.02% 
+JavaScript               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
+Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  17 hrs 24 mins      █████████████████████████   100.0%
+VS Code                  23 hrs 14 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      17 hrs 24 mins      █████████████████████████   100.0%
+Mac                      23 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ Mac                      17 hrs 24 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/icyzeroice/icyzeroice/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 16:41:12 UTC
+ Last Updated on 12/05/2022 16:43:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
