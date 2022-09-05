@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=icyzeroice)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,7 +74,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/icyzeroice/icyzeroice/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 16:43:17 UTC
+ Last Updated on 05/09/2022 16:37:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
