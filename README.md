@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=icyzeroice)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    127 commits    ██████░░░░░░░░░░░░░░░░░░░   27.37% 
+🌞 Morning    126 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
 🌆 Daytime    89 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
-🌃 Evening    242 commits    █████████████░░░░░░░░░░░░   52.16% 
+🌃 Evening    243 commits    █████████████░░░░░░░░░░░░   52.37% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 ```
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 ```text
 Monday       110 commits    ██████░░░░░░░░░░░░░░░░░░░   23.71% 
-Tuesday      71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+Tuesday      72 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
 Wednesday    57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
 Thursday     40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
 Friday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.03% 
-Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
+Saturday     45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
 Sunday       112 commits    ██████░░░░░░░░░░░░░░░░░░░   24.14%
 
 ```
@@ -59,13 +59,14 @@ Sunday       112 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ████████████████████░░░░░   83.14% 
+Git Config               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.86%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +75,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/icyzeroice/icyzeroice/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 16:41:42 UTC
+ Last Updated on 27/09/2022 16:45:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
